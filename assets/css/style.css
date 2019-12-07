@@ -110,12 +110,6 @@ p, p1{
     padding-right: 16px;
 }
 
-.p1Block{
-    clear: left;
-    border-top: 20px;
-    padding: 10px;
-}
-
 .list{
     border: 1px solid #666666;
     float: left;
@@ -198,6 +192,11 @@ background: linear-gradient(90deg, rgba(74,170,165,0.7049194677871149) 10%, rgba
         width: 60%;
         margin-left: 20px;
     }
+    .p1Block{
+        clear: left;
+        border-top: 20px;
+        padding: 10px;
+    }
     .box{
         /* width: auto;
         height: 50%; */
@@ -221,6 +220,11 @@ background: linear-gradient(90deg, rgba(74,170,165,0.7049194677871149) 10%, rgba
         padding: 10px;
         width: 90%;
         margin-left: 20px;
+    }
+    .p1Block{
+        clear: left;
+        border-top: 20px;
+        padding: 10px;
     }
     .box{
         object-fit: contain;
