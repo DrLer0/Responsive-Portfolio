@@ -23,6 +23,11 @@ h3 {
     height: auto;
 }
 
+content .pure-img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
 .l-box {
     padding: 1em;
 }
